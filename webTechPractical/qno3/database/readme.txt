@@ -1,0 +1,1 @@
+create a database named 'exam' and import the 'user.sql' file in it.
